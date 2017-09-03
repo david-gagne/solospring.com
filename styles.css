@@ -67,6 +67,9 @@
   .mc-field-group {
     padding-bottom: 5px;
 }
+#mc_embed_signup .mc-field-group {
+  padding-bottom: 10px;
+}
   #mc_embed_signup .mc-field-group input {
     max-width: 300px;
     width: 80vw;
