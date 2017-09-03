@@ -38,7 +38,7 @@
 }
 .logo {
   height: inherit;
-  background-image: url("solospring-grey.svg");
+  background-image: url("solospring.grey.svg");
   background-repeat: no-repeat;
   background-size: 250px 80px;
 }
@@ -56,7 +56,6 @@
   margin-top: 40px;
   padding-bottom: 50px;
 }
-/*MailChimp*/
 /*MailChimp*/
 #mc_embed_signup {
   font-family: "Quicksand", sans-serif;
